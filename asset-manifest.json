@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/useReducer_Hook_example/static/css/main.964fdded.css",
+    "main.js": "/useReducer_Hook_example/static/js/main.93193455.js",
+    "index.html": "/useReducer_Hook_example/index.html",
+    "main.964fdded.css.map": "/useReducer_Hook_example/static/css/main.964fdded.css.map",
+    "main.93193455.js.map": "/useReducer_Hook_example/static/js/main.93193455.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.964fdded.css",
+    "static/js/main.93193455.js"
+  ]
+}
